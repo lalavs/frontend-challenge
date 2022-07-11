@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/frontend-challenge/static/css/main.932773db.css",
-    "main.js": "/frontend-challenge/static/js/main.47a4cc3d.js",
+    "main.css": "/frontend-challenge/static/css/main.2bc8c298.css",
+    "main.js": "/frontend-challenge/static/js/main.87f59314.js",
     "static/js/787.2e4668d5.chunk.js": "/frontend-challenge/static/js/787.2e4668d5.chunk.js",
     "static/media/roboto-all-400-normal.woff": "/frontend-challenge/static/media/roboto-all-400-normal.c5d001fa922fa66a147f.woff",
     "static/media/roboto-latin-400-normal.woff2": "/frontend-challenge/static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2",
@@ -12,12 +12,12 @@
     "static/media/roboto-vietnamese-400-normal.woff2": "/frontend-challenge/static/media/roboto-vietnamese-400-normal.3230f9b040f3c630e0c3.woff2",
     "static/media/roboto-greek-ext-400-normal.woff2": "/frontend-challenge/static/media/roboto-greek-ext-400-normal.169619821ea93019d1bb.woff2",
     "index.html": "/frontend-challenge/index.html",
-    "main.932773db.css.map": "/frontend-challenge/static/css/main.932773db.css.map",
-    "main.47a4cc3d.js.map": "/frontend-challenge/static/js/main.47a4cc3d.js.map",
+    "main.2bc8c298.css.map": "/frontend-challenge/static/css/main.2bc8c298.css.map",
+    "main.87f59314.js.map": "/frontend-challenge/static/js/main.87f59314.js.map",
     "787.2e4668d5.chunk.js.map": "/frontend-challenge/static/js/787.2e4668d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.932773db.css",
-    "static/js/main.47a4cc3d.js"
+    "static/css/main.2bc8c298.css",
+    "static/js/main.87f59314.js"
   ]
 }
